@@ -40,9 +40,28 @@
 
 ## 🛠 Tech Stack
 
-<p>
-<img src="https://skillicons.dev/icons?i=java,Python,LLM,ML,OOPs, DSA,SDET,html,css,js,react,nodejs,mongodb,mysql,git,github,vscode"/>
-</p>
+## 🛠 Tech Stack
+
+**Languages:**  
+Python | Java | JavaScript  
+
+**Frontend:**  
+HTML | CSS | React  
+
+**Backend:**  
+Node.js | Express.js  
+
+**Testing:**  
+Selenium | TestNG | JUnit | Postman  | Playwright
+
+**AI / ML:**  
+Python | Pandas | NumPy | Scikit-learn  
+
+**Database:**  
+MySQL | MongoDB  
+
+**Tools:**  
+Git | GitHub | VS Code | Linux
 
 ---
 
