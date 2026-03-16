@@ -39,29 +39,65 @@
 ---
 
 ## 🛠 Tech Stack
+<!-- Animated Intro -->
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Engineer;Test+Automation+Engineer;AI+%7C+ML+Enthusiast;Cloud+%7C+Full+Stack+Developer&center=true&width=500&height=45">
+</p>
+
+---
 
 ## 🛠 Tech Stack
 
-**Languages:**  
-Python | Java | JavaScript  
+### 💻 Programming & Development
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,cpp,js,html,dotnet,flask,django,spring"/>
+</p>
 
-**Frontend:**  
-HTML | CSS | React  
+**Technologies:**  
+Java / Spring Boot • Python / Django • Flask API • C/C++ • .NET • JavaScript • HTML
 
-**Backend:**  
-Node.js | Express.js  
+---
 
-**Testing:**  
-Selenium | TestNG | JUnit | Postman  | Playwright
+### 🤖 AI / Data / Gen-AI
+<p>
+<img src="https://skillicons.dev/icons?i=python,tensorflow"/>
+</p>
 
-**AI / ML:**  
-Python | Pandas | NumPy | Scikit-learn  
+Machine Learning • LLM / Generative AI • Data Analytics
 
-**Database:**  
-MySQL | MongoDB  
+---
 
-**Tools:**  
-Git | GitHub | VS Code | Linux
+### 🧪 Testing & QA Automation
+
+Selenium • Tosca • TestNG • Pytest • BDD Cucumber  
+Functional Testing • Automation Testing
+
+---
+
+### 🗄 Databases
+
+SQL • PL/SQL
+
+---
+
+### ☁️ Cloud & DevOps
+<p>
+<img src="https://skillicons.dev/icons?i=aws,gcp,git"/>
+</p>
+
+AWS • GCP • Git
+
+---
+
+### ⚙️ Tools & Project Management
+
+Jira • Azure DevOps • Tosca
+
+---
+
+### 🔄 Methodologies
+
+Agile Methodology • Software Development Lifecycle (SDLC)
 
 ---
 
