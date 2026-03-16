@@ -48,7 +48,7 @@
 
 ## 🛠 Tech Stack
 
-### 💻 Programming & Development
+###💻 Programming & Development
 <p>
 <img src="https://skillicons.dev/icons?i=java,python,cpp,js,html,dotnet,flask,django,spring"/>
 </p>
