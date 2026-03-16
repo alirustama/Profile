@@ -41,7 +41,7 @@
 ## 🛠 Tech Stack
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,Python,LLM,ML, OOPs, DSA,SDET,html,css,js,react,nodejs,mongodb,mysql,git,github,vscode"/>
+<img src="https://skillicons.dev/icons?i=java,Python,LLM,ML,OOPs, DSA,SDET,html,css,js,react,nodejs,mongodb,mysql,git,github,vscode"/>
 </p>
 
 ---
@@ -49,7 +49,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=https://github.com/alirustama&show_icons=true&theme=tokyonight">
+<img src="https://github-readme-stats.vercel.app/api?username=alirustama&show_icons=true&theme=tokyonight">
 </p>
 
 ---
@@ -57,7 +57,7 @@
 ## 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com/?user=https://github.com/alirustama&theme=tokyonight">
+<img src="https://streak-stats.demolab.com/?user=alirustama&theme=tokyonight">
 </p>
 
 ---
@@ -65,7 +65,7 @@
 ## 📈 Most Used Languages
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/alirustama&layout=compact&theme=tokyonight">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alirustama&layout=compact&theme=tokyonight">
 </p>
 
 ---
